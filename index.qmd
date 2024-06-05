@@ -1,11 +1,12 @@
 ---
 title: "Naomi Howard"
 image: KristinaLeePhotography-10.jpg
+toc: false
 about:
   template: jolla
-   image-shape: round
-   image-width: 23em
-   links:
+  image-shape: round
+  image-width: 23em
+  links:
     - icon: LinkedIn
       text: LinkedIn
       href: https://www.linkedin.com/in/naomi-howard11/

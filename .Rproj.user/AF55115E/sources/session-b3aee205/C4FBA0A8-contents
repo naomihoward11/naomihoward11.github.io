@@ -7,7 +7,7 @@ about:
   image-shape: round
   image-width: 23em
   links:
-    - icon: LinkedIn
+    - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/naomi-howard11/
     - icon: github

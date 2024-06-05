@@ -12,6 +12,10 @@ website:
       - about.qmd
       - Diving.qmd
       - EnvironmentalProjects.qmd
+      
+page-footer: 
+  background: light
+  left: Copyright 2024, Naomi Howard
 format:
   html:
     theme: lumen

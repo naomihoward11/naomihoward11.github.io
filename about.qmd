@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+# About this site
 
-```{r}
-1 + 1
-```
+This site contains my experience diving in various marine ecosystems as well as a few projects and papers I have written over the course of my undergraduate education at UCSB.

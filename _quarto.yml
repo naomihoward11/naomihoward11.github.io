@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
+  title: "Naomi Howard"
   navbar:
-    title: "Naomi Howard"
+    background: primary
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Diving.qmd
+      - EnvironmentalProjects.qmd
 
 format:
   html:

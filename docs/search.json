@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\nThis site contains my experience diving in various marine ecosystems as well as a few projects and papers I have written over the course of my undergraduate education at UCSB."
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,19 @@
     "title": "Naomi Howard",
     "section": "",
     "text": "About Me!\nMy name is Naomi Howard and I am a junior pursuing a Bachelor of Science (B.S.) in Environmental Studies at UCSB. Some of my passions include scuba diving, coastal policy, and climate change mitigation. In my free time, I love to surf, swim, shop, and try new restaurants in downtown SB!\n\n\nEducation\nB.S. in Environmental Studies (Graduation Year: June 2025)\nUniversity of California, Santa Barbara (UCSB)\n\n\nExperience\nResearch and Communication Intern - UCSB Marine Science Institute\nApril 2024 - Present\nUndergraduate Research Assistant - PISCO Invertebrate Lab\nMarch 2024 - Present"
+  },
+  {
+    "objectID": "Diving.html",
+    "href": "Diving.html",
+    "title": "My Diving Experiences!",
+    "section": "",
+    "text": "Here are a few photos consisting of some of my experiences diving! These photos are taken in Tahiti and Channel Islands National Park."
+  },
+  {
+    "objectID": "EnvironmentalProjects.html",
+    "href": "EnvironmentalProjects.html",
+    "title": "Environmental Projects",
+    "section": "",
+    "text": "Here are a few bodies of work I have created during my time as an undergraduate Environmental Studies major here at UCSB:"
   }
 ]

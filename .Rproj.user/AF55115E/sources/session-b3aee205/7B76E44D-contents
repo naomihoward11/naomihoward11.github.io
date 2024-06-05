@@ -11,6 +11,7 @@ website:
         text: Home
       - about.qmd
       - Diving.qmd
+      - EnvironmentalProjects.qmd
 
 format:
   html:

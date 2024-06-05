@@ -3,7 +3,7 @@
     "path": "~/Downloads/github/naomihoward11.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "3261205165",
+    "hash": "762942436",
     "contents": "",
     "dirty": false,
     "created": 1717609844372.0,
@@ -18,15 +18,15 @@
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "639:383.8888854980469",
         "docOutlineSize": "110",
-        "cursorPosition": "8,55",
+        "cursorPosition": "13,44",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1717611542,
+    "lastKnownWriteTime": 1717614235,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1717611542561,
+    "last_content_update": 1717614235635,
     "read_only": false,
     "read_only_alternatives": []
 }

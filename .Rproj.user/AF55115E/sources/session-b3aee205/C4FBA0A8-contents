@@ -1,8 +1,16 @@
 ---
 title: "Naomi Howard"
+about:
+  template: jolla
+  image: KristinaLeePhotography-10.jpg
+  links:
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/naomi-howard11/
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
-
-# Naomi Howard
 
 # About Me!
 
@@ -13,3 +21,13 @@ My name is Naomi Howard and I am a junior pursuing a Bachelor of Science (B.S.) 
 B.S. in Environmental Studies (Graduation Year: June 2025)
 
 University of California, Santa Barbara (UCSB)
+
+# Experience
+
+Research and Communication Intern - UCSB Marine Science Institute
+
+April 2024 - Present
+
+Undergraduate Research Assistant - PISCO Invertebrate Lab
+
+March 2024 - Present

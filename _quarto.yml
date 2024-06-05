@@ -12,13 +12,14 @@ website:
       - about.qmd
       - Diving.qmd
       - EnvironmentalProjects.qmd
-
 format:
   html:
-    theme: cosmo
+    theme: lumen
     css: styles.css
+    
     toc: true
-    page layout: full
+    
+    page-layout: full
 
 editor: visual
 

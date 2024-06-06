@@ -2,5 +2,37 @@
 body {
   font-family: Georgia, serif;
   font-size: 1.2rem;
+  
+  /* styles.css */
+
+.small-img {
+  width: 300px;
+  height: auto; /* Maintain aspect ratio */
 }
+
+
+
+/* styles.css */
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Adjust the gap between images */
+  justify-content: center; /* Center the gallery */
+}
+
+.gallery img {
+  width: 400px; /* Larger fixed width */
+  height: 300px; /* Larger fixed height */
+  object-fit: cover; /* Ensure images are scaled to cover the container */
+  border: 2px solid #ccc; /* Add a border to images */
+  border-radius: 5px; /* Add rounded corners to images */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Add a shadow effect */
+}
+
+.gallery img:hover {
+  transform: scale(1.05); /* Slightly enlarge image on hover */
+  transition: transform 0.3s ease; /* Smooth transition */
+}
+
 

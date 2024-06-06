@@ -2,6 +2,13 @@
 title: "My Diving Experiences!" 
 ---
 
-Here are a few photos consisting of some of my experiences diving! These photos are taken in Tahiti and Channel Islands National Park. 
+Here are a few photos consisting of some of my experiences diving! These photos are taken in Tahiti and Channel Islands National Park.
+
+<div class="gallery">
+  <img src="website images/Deepdive.JPG" alt="Diving Photo 1">
+  <img src="website images/Mask.JPG" alt="Diving Photo 2">
+  <img src="website images/Fish.JPG" alt="Diving Photo 3">
+  <img src="website images/Channel.JPG" alt="Diving Photo 5">
+</div>
 
 

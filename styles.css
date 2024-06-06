@@ -36,3 +36,11 @@ body {
 }
 
 
+:root {
+  --primary-color: #ffb6c1; /* Light pink */
+  --secondary-color: #ffc0cb; /* Pink */
+  --background-color: #fff0f5; /* Lavender blush */
+  /* Other variables... */
+}
+
+

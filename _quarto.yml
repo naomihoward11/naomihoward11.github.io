@@ -21,10 +21,21 @@ website:
     
 format:
   html:
+    custom_html_header: |
+      <style>
+        /* CSS styles for the document */
+        :root {
+          --primary-color: #ffb6c1; /* Light pink */
+          --secondary-color: #ffc0cb; /* Pink */
+          --background-color: #fff0f5; /* Lavender blush */
+          /* Add more CSS styles as needed */
+        }
+      </style>
     theme: morph
     css: styles.css
     toc: true
     page-layout: full
+
     
 
 editor: visual

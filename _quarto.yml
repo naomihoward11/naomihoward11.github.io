@@ -5,27 +5,29 @@ project:
 website:
   title: "Naomi Howard"
   navbar:
-    background: primary
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - Diving.qmd
       - EnvironmentalProjects.qmd 
-      page-footer:
-      background: light
+    page-footer:
+      background: light # or `dark`
       left: Copyright 2024, Naomi Howard
-      right:
-        icon: github
-        href: https://github.com/naomihoward11
+      right: 
+      icon: github
+      text: https://github.com/naomihoward11
+    
+    
 format:
   html:
-    theme: lumen
+    theme: morph
+    font-family: Georgia, serif;
+    font-size: 1.2rem;
     css: styles.css
-    
     toc: true
-    
     page-layout: full
+    
 
 editor: visual
 

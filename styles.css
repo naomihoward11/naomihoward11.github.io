@@ -2,12 +2,8 @@
 /*-- scss:defaults --*/
 /* Place default variable definitions here */
 
-:root {
-  --primary-color: #ffb6c1; /* Light pink */
-  --secondary-color: #ffc0cb; /* Pink */
-  --background-color: #fff0f5; /* Lavender blush */
-  /* Other variables... */
-}
+$pink: #ffb6c1; /* Light pink */
+$navbar-bg: $pink;
 
 /*-- scss:rules --*/
 /* Place regular CSS rules here */

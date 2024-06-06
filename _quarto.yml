@@ -22,8 +22,6 @@ website:
 format:
   html:
     theme: morph
-    font-family: Georgia, serif;
-    font-size: 1.2rem;
     css: styles.css
     toc: true
     page-layout: full

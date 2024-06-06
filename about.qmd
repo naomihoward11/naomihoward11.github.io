@@ -1,11 +1,21 @@
+
 ---
-title: "About"
-toc: false
+title: "About Me"
+format:
+  html:
+    css: styles.css
+    toc: true
+    page-layout: full
 ---
 
 # About this site
 
 This site contains my experience diving in various marine ecosystems as well as a few projects and papers I have written over the course of my undergraduate education at UCSB.
+
+
+<div class="gallery">
+  <img src="websiteimages/IMG_3582.jpg" alt="Kayak">
+</div>
 
 
 
